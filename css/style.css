@@ -1,0 +1,375 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main {
+  
+    height: 250vh;
+    background-color: gainsboro;
+    border: 1px solid black;
+}
+
+svg {
+    color: white;
+}
+
+nav {
+    background-color: black;
+}
+
+.icon {
+    display: inline;
+    color: rgb(139, 199, 49);
+    padding-left: 800px;
+}
+
+.tele {
+    color: rgb(139, 199, 49);
+}
+
+p {
+    color: white;
+    display: inline;
+}
+
+.call-me-back {
+    background-color: rgb(139, 199, 49);
+    color: black;
+    border: none;
+    border-radius: 2px;
+    padding: 2px;
+    margin: 3px;
+}
+
+.panacloud {
+    background-color: white;
+    padding: 5px;
+    display: flex;
+}
+
+li {
+    display: inline;
+    padding-left: 60px;
+    font-size: 15px;
+    text-transform: capitalize;
+}
+
+ul {
+    margin-left: 50px;
+    padding-top: 9px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:focus {
+    font-weight: 900;
+    color: rgb(139, 199, 49);
+}
+
+.portfolio {
+    width: 100%;
+    height: 15%;
+    background-color: rgb(139, 199, 49);
+    text-align: center;
+    color: white;
+}
+
+.experts {
+    padding-top: 50px;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+
+button {
+    background-color: rgb(231, 231, 9);
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 130px;
+    font-weight: bolder;
+}
+
+.para {
+    text-align: center;
+}
+
+.advantages {
+    background-color: white;
+
+    height: 300px;
+}
+
+h1 {
+    text-transform: uppercase;
+    padding-top: 15px;
+}
+
+span {
+    color: rgb(139, 199, 49);
+    padding-left: 10px;
+}
+
+.our {
+    color: black;
+    font-size: small;
+}
+
+.bulb {
+    border: 1px solid transparent;
+    border-radius: 50%;
+    background-color: rgb(223, 213, 213);
+    height: 5em;
+    width: 5em;
+}
+
+.icon1 {
+    display: inline-block;
+    margin: 75px;
+}
+
+.bulbb {
+    width: 50px;
+    height: 40px;
+    color: rgb(139, 199, 49);
+    margin-top: 18px;
+    margin-left: 13px;
+}
+
+
+
+.thumb {
+    width: 50px;
+    height: 40px;
+    color: rgb(139, 199, 49);
+    margin-top: 18px;
+    margin-left: 13px;
+}
+
+.watch {
+    width: 50px;
+    height: 40px;
+    color: rgb(139, 199, 49);
+    margin-top: 18px;
+    margin-left: 13px;
+}
+
+.people {
+    width: 50px;
+    height: 40px;
+    color: rgb(139, 199, 49);
+    margin-top: 18px;
+    margin-left: 13px;
+}
+
+.chat {
+    width: 50px;
+    height: 40px;
+    color: rgb(139, 199, 49);
+    margin-top: 18px;
+    margin-left: 13px;
+}
+
+.lorem {
+    color: black;
+    font-size: small;
+}
+
+.our-services {
+    height: 20%;
+    background-color: white;
+}
+
+.null {
+    display: flex;
+    padding-top: 40px;
+    gap: 5px;
+    justify-content: space-evenly;
+}
+
+.services {
+    display: flex;
+   
+    background-color: lightgray;
+    height: 170px;
+    width: 170px;
+    
+}
+
+.star {
+    background-color: orange;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 24px;
+    left: 50px;
+}
+
+
+.red {
+    color: red;
+    width: 50px;
+    height: 20px;
+    margin-top: 15px;
+}
+
+.brain {
+    color: white;
+}
+
+.our-portfolio {
+    background-color: black;
+    height: 40%;
+}
+
+.white {
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.logo:hover {
+    color: orange;
+}
+.im{
+    width: 1300px;
+}
+.pic {
+    
+    padding-top: 15px;
+
+}
+
+.arwah {
+    text-align: center;
+}
+
+.arwa {
+    color: rgb(139, 129, 129);
+    height: 50px;
+    width: 100%;
+    background-color: white;
+}
+
+.process {
+    background-color: white;
+    height: 15%;
+}
+
+.small {
+    background-color: white;
+    height: 60px;
+    width: 60px;
+    border: 2px solid gray;
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-top: 20px;
+    position: relative;
+}
+
+.big {
+    display: flex;
+    justify-content: center;
+}
+
+.one {
+    color: orange;
+    position: relative;
+    bottom: 35px;
+    left: 20px;
+
+}
+
+.mobile {
+    color: rgb(139, 199, 49);
+    height: 30px;
+    width: 30px;
+    padding-top: 10px;
+}
+
+.john {
+    background-color: rgb(192, 175, 175);
+    height: 300px;
+}
+
+.mother {
+    text-align: left;
+}
+
+.son {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.sapa {
+    color: white;
+}
+
+.form {
+    background-color: rgb(139, 199, 49);
+    height: 200px;
+    word-spacing: 10px;
+    font-size: large;
+    text-align: center;
+}
+
+.input {
+    margin-top: 15px;
+}
+
+.location {
+    color: rgb(139, 199, 49);
+    margin-left: 50px;
+    margin-top: 20px;
+}
+table{
+    border-collapse: collapse;
+    margin: 30px;
+}
+tr{
+border-bottom: 2px solid rgb(0, 0, 0);
+}
+td{
+   border-left: 1px solid black;
+   padding-left: 15px;
+}
+.last{
+    border-bottom: none;
+}
+.tr{
+    border-left: none;
+}
+.request{
+    width: 200px;
+}
+.lorem{
+    word-spacing: normal;
+}
+.wooh{
+    margin-left: 50px;
+}
+.pam{
+    width: 1300px;
+    height: 300px;
+    margin-top: 20px;
+}
+.map{
+    text-align: center;
+}
+.im{
+
+    margin-top: 10px;
+}
